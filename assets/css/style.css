@@ -20,6 +20,7 @@ body {
     background: url("https://source.unsplash.com/random");
     background-size: cover;
     background-position: center;
+    overflow: hidden;
    
     
   }
